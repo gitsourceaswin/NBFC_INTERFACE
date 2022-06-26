@@ -1,0 +1,27 @@
+.head{
+  overflow:auto;
+  display: FIXED;
+  width: 100%;
+  height: auto;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  background-color: brown;
+}
+body{
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: 50%;
+  background-position-y: center;
+}
+.cust{
+  background-color: cyan;
+  text-decoration: none;
+  margin: right 10px;color: blue;
+}
+.guar{
+  
+  background-color:beige;
+  top: 0%;
+  margin: left 10px;color: blue;
+}
